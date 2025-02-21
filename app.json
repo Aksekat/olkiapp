@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "news-proto",
-    "slug": "news-proto",
+    "name": "olkiapp",
+    "slug": "olkiapp",
     "version": "1.0.0",
     "scheme": "myapp",
     "orientation": "portrait",
